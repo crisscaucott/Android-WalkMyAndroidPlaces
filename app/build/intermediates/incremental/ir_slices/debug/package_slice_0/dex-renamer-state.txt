@@ -1,0 +1,4 @@
+#Fri Jun 22 00:31:04 CLT 2018
+base.0=/Users/ccaucott/AndroidStudioProjects/WalkMyAndroidPlaces-Starter/app/build/intermediates/transforms/dexMerger/debug/1
+path.0=classes.dex
+renamed.0=classes.dex
